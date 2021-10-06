@@ -176,8 +176,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Follow me on twitter](https://twitter.com/itnsir) - intisar.naheen@northsouth.edu
-
+[@Follow me on twitter](https://twitter.com/itnsir) <br>
+Email me - intisar.naheen@northsouth.edu <br>
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
